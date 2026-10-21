@@ -1,0 +1,11 @@
+{
+  "name": "emr-loops-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "forof": "node forOfDemo.js",
+    "keys": "node keysDemo.js",
+    "values": "node valuesDemo.js",
+    "entries": "node entriesDemo.js"
+  }
+}
